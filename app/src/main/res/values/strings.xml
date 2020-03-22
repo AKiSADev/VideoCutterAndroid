@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Story video cutter</string>
+    <string name="CutButtonText">Cut the video</string>
+</resources>
